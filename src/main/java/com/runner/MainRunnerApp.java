@@ -17,6 +17,7 @@ public class MainRunnerApp {
 	//      springApplication.run(args);
 		
 		SpringApplication.run(MainRunnerApp.class, args);
+		System.out.println("amir");
 
 	}
 
